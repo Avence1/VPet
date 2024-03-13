@@ -1,0 +1,25 @@
+#VPet{
+    position: relative;
+    display: inline-block;
+    top: 0px;
+    left: 0px;
+}
+#BODY{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    bottom: 60px;
+    left: 50%;
+    transform: translateX(-50%);
+    
+}
+#HEAD{
+    width: 75px;
+    height: 70px;
+    position: absolute;
+    top: 8px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+body{
+}
